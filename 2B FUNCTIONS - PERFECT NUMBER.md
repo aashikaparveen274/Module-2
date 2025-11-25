@@ -22,11 +22,14 @@ To write a Python program to check if a number is a Perfect number using the con
 
 ### PROGRAM
 ```
-#Reg.No:
-#Name:
-#Add your Code Here
+def area(radius):
+    area = 3.14*radius*radius
+    return area
 
+radius = int(input()) 
 ```
 ### OUTPUT
+![Screenshot 2025-04-27 140700](https://github.com/user-attachments/assets/a4908005-27e2-434a-8af5-0b0dbdbe84d9)
 
 ### RESULT
+Thus a python program to define a function that accepts radius and returns the area of a circle has been implemented successfully.
